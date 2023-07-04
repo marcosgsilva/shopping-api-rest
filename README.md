@@ -14,7 +14,8 @@ ter o mongo configurado localmente
 Rodar o docker-compose no microserviço de carrinhos para subir o postgres
 Necessário ter o docker instalado
 
-
+*Insomnia*
+arquivo se encontra no diretório data
 
 *Microserviços:*<br />
 
