@@ -17,7 +17,8 @@ Necessário ter o docker instalado
 *Insomnia*
 arquivo se encontra no diretório data
 
-*Microserviços:*<br />
+*API REST/Microserviços:*<br />
+   https://github.com/marcosgsilva/shopping-api-rest/tree/master   
 
    https://github.com/marcosgsilva/shopping-product
 
