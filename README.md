@@ -11,6 +11,9 @@
  Projeto se encontra com o swagger configurado
   - localhost:3000/api
 
+    ![Captura de tela de 2023-07-04 10-54-48](https://github.com/marcosgsilva/shopping-api-rest/assets/12539016/f45a1bd1-0fa9-4344-9fb9-1e10b026d6b5)
+
+
  Projeto também está com o insonmia dentro do diretório data
 
 
