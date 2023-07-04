@@ -18,11 +18,11 @@ Necessário ter o docker instalado
 arquivo se encontra no diretório data
 
 *API REST/Microserviços:*<br />
-   https://github.com/marcosgsilva/shopping-api-rest/tree/master   
+   https://github.com/marcosgsilva/shopping-api-rest/tree/master(API REST)
 
-   https://github.com/marcosgsilva/shopping-product
+   https://github.com/marcosgsilva/shopping-product(Micro)
 
-   https://github.com/marcosgsilva/shopping-cart
+   https://github.com/marcosgsilva/shopping-cart(Micro)
 
 *Autenticação*
    Projeto autenticado para a parte do carrinho, ainda faltando adicionar autenticação para produtos.
