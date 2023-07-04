@@ -25,6 +25,8 @@ Necessário ter o docker instalado
 
 *Testes Unitários*
    Testes realizados para microserviço de produtos
+   ![Captura de tela de 2023-07-04 11-09-03](https://github.com/marcosgsilva/shopping-api-rest/assets/12539016/b7331e21-0a89-4cd6-a0ad-7b9114de43de)
+
 
 
  *Projeto se encontra com o swagger configurado*
